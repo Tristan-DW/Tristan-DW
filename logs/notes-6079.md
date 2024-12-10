@@ -1,6 +1,6 @@
 # Notes
 
-perf: reduce redundant lookups
+feat: add debug flag support
 
-Timestamp: 2024-12-04T11:13:19Z
-Nonce: 639833
+Timestamp: 2024-12-10T17:33:41Z
+Nonce: 903479
