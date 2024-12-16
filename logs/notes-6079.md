@@ -1,6 +1,6 @@
 # Notes
 
-feat: add debug flag support
+docs: update inline comments
 
-Timestamp: 2024-12-10T17:33:41Z
-Nonce: 903479
+Timestamp: 2024-12-16T09:39:28Z
+Nonce: 709344
