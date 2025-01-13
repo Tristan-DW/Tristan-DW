@@ -1,6 +1,6 @@
 # Notes
 
-chore: update lockfile
+fix: correct default value handling
 
-Timestamp: 2025-01-06T17:11:20Z
-Nonce: 806175
+Timestamp: 2025-01-13T14:00:42Z
+Nonce: 780199
