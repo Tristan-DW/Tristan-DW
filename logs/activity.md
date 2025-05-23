@@ -1,8 +1,8 @@
 # Activity Log
 
-## Entry 0030
+## Entry 0031
 
-- **Timestamp:** `2025-05-21T13:00:19Z`
-- **Commit:** 30 of 120
-- **Note:** chore: clean up unused imports
-- **Nonce:** 754292
+- **Timestamp:** `2025-05-23T09:55:22Z`
+- **Commit:** 31 of 120
+- **Note:** docs: update API endpoint documentation
+- **Nonce:** 261929
