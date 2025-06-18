@@ -1,8 +1,8 @@
 # Activity Log
 
-## Entry 0035
+## Entry 0036
 
-- **Timestamp:** `2025-06-13T17:28:56Z`
-- **Commit:** 35 of 120
-- **Note:** feat: add pagination to list endpoints
-- **Nonce:** 183451
+- **Timestamp:** `2025-06-18T10:07:05Z`
+- **Commit:** 36 of 120
+- **Note:** fix: address type coercion issue
+- **Nonce:** 536659
