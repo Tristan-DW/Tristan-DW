@@ -1,8 +1,8 @@
 # Activity Log
 
-## Entry 0096
+## Entry 0097
 
-- **Timestamp:** `2025-12-22T18:55:12Z`
-- **Commit:** 96 of 120
-- **Note:** fix: address type coercion issue
-- **Nonce:** 922567
+- **Timestamp:** `2025-12-23T08:20:12Z`
+- **Commit:** 97 of 120
+- **Note:** fix: correct API response serialization
+- **Nonce:** 589400
