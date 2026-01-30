@@ -1,8 +1,8 @@
 # Activity Log
 
-## Entry 0107
+## Entry 0108
 
-- **Timestamp:** `2026-01-29T09:30:07Z`
-- **Commit:** 107 of 120
-- **Note:** chore: update environment configuration
-- **Nonce:** 329205
+- **Timestamp:** `2026-01-30T18:24:10Z`
+- **Commit:** 108 of 120
+- **Note:** feat: add pagination to list endpoints
+- **Nonce:** 640423
