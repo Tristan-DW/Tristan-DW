@@ -123,6 +123,16 @@ Bi-directional sync between GoldMine and modern tooling, with custom field mappi
 
 </details>
 
+<details>
+<summary><strong>Vysto AI - Conversational Web Platform</strong></summary>
+<br/>
+
+**The site is the conversation - navigation replaced by dialogue.**
+
+Built the MVP for Vysto AI: a platform where users talk to a website instead of clicking through it. As the conversation progresses, pages build in real time to show the user exactly what they are looking for. Under the hood it is a full CMS - it learns from an existing site, generates a Vysto version of it, and handles image, audio, and text generation natively. Classic navigation remains available as a fallback. The result is a fundamentally different model for how people interact with web content.
+
+</details>
+
 ---
 
 ## Stats
