@@ -102,7 +102,7 @@ Legacy CRM integration layer with bi-directional sync, custom field mappings, an
 <div align="center">
 
 ![Total Contributions](https://img.shields.io/badge/TOTAL_CONTRIBUTIONS-30%2C000%2B-6e40c9?style=for-the-badge)
-![Commits This Year](https://img.shields.io/badge/COMMITS_THIS_YEAR-2%2C400%2B-238636?style=for-the-badge)
+![Commits This Year](https://img.shields.io/badge/COMMITS_THIS_YEAR-337-238636?style=for-the-badge)
 ![Pull Requests](https://img.shields.io/badge/PULL_REQUESTS-800%2B-f0883e?style=for-the-badge)
 ![Code Reviews](https://img.shields.io/badge/CODE_REVIEWS-1%2C200%2B-da3633?style=for-the-badge)
 
