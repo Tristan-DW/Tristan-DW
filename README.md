@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/Tristan-DW">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Developer;Head+Architect+at+Sports+Fusion+Technology;Head+Architect+at+Skedadel+Tech;Head+Architect+at+Digital+Dynasty;Building+systems+that+scale." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Developer;Founder+of+Rockwell+Digital;Head+Architect+at+Sports+Fusion+Technology;Head+Architect+at+Skedadel+Tech;Head+Architect+at+Digital+Dynasty;Building+systems+that+scale." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-**Digital Dynasty** &nbsp;|&nbsp; **Sports Fusion Technology** &nbsp;|&nbsp; **Skedadel Tech**
+**Rockwell Digital** &nbsp;|&nbsp; **Digital Dynasty** &nbsp;|&nbsp; **Sports Fusion Technology** &nbsp;|&nbsp; **Skedadel Tech**
 
 *Full-stack engineer owning every layer - from database schema to deployed product.*
 
