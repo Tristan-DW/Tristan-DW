@@ -3,14 +3,16 @@
 <div align="center">
 
 <a href="https://github.com/Tristan-DW">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Developer;Head+Architect+%40+Sports+Fusion+Technology;Head+Architect+%40+Skedadel+Tech;Building+systems+that+scale." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Developer;Head+Architect+at+Sports+Fusion+Technology;Head+Architect+at+Skedadel+Tech;Head+Architect+at+Digital+Dynasty;Building+systems+that+scale." alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![Profile views](https://komarev.com/ghpvc/?username=Tristan-DW&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)](https://github.com/Tristan-DW)
 [![GitHub followers](https://img.shields.io/github/followers/Tristan-DW?style=for-the-badge&color=f0883e&label=FOLLOWERS)](https://github.com/Tristan-DW?tab=followers)
-[![Years on GitHub](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=238636&label=SINCE&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTristan-DW&suffix=&prefix=)](https://github.com/Tristan-DW)
+![Experience](https://img.shields.io/badge/EXPERIENCE-5%2B+YEARS-238636?style=for-the-badge)
+![Projects](https://img.shields.io/badge/PROJECTS+SHIPPED-50%2B-6e40c9?style=for-the-badge)
+![Lines](https://img.shields.io/badge/LINES+OF+CODE-500K%2B-f0883e?style=for-the-badge)
 
 </div>
 
@@ -105,7 +107,7 @@ Legacy CRM integration layer with bi-directional sync, custom field mappings, an
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-DW&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide=html,css" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-DW&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css,makefile,cmake,dockerfile,shell,batchfile,powershell&size_weight=0.5&count_weight=0.5" width="49%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=Tristan-DW&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" width="49%"/>
 
 </div>
