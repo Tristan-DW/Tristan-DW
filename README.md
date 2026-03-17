@@ -14,7 +14,7 @@
 **Head Architect at Sports Fusion Technology**
 **Head Architect at Skedadel Tech**
 
-I design and ship production systems end to end: real-time backends, AI-powered platforms, mobile apps, fleet management systems, medical software, and DevOps pipelines. I work across the full stack and own every layer from database schema to deployed product.
+I design and ship production systems end to end - real-time backends, AI platforms, mobile apps, fleet systems, medical software, and DevOps pipelines.
 
 </div>
 
@@ -28,7 +28,7 @@ I design and ship production systems end to end: real-time backends, AI-powered 
 | **Frontend** | React, Next.js, HTML5, CSS3, Tailwind CSS, Flutter |
 | **Backend** | Node.js, Laravel, Express, REST APIs, WebSockets |
 | **Databases** | PostgreSQL, MySQL, SQLite, Redis, MongoDB, MS SQL |
-| **Cloud & DevOps** | AWS (EC2, S3, Lambda, RDS), Docker, GitHub Actions, Nginx, CI/CD |
+| **Cloud & DevOps** | AWS (EC2, S3, Lambda, RDS, ECS, CloudFront), Docker, GitHub Actions, Nginx |
 | **AI & Integrations** | OpenAI API, Claude API, GoldMine CRM, Google Ads API, ICD-10/CPT |
 
 ---
@@ -39,72 +39,56 @@ I design and ship production systems end to end: real-time backends, AI-powered 
 <tr>
 <td width="50%" valign="top">
 
-### Sports Fusion - Registration System
-Full registration and management platform for sports organizations. Player onboarding, event management, payment processing, and reporting.
-
-**Stack:** React, Laravel, MySQL, Redis, Docker
+**Sports Fusion - Registration System**
+Full registration platform for sports organizations - player onboarding, events, payments, reporting.
 
 </td>
 <td width="50%" valign="top">
 
-### Skedadel - Fleet Management System
-End-to-end fleet operations platform. Real-time vehicle tracking, driver management, route planning, dispatch, and live analytics dashboard.
-
-**Stack:** React, Node.js, PostgreSQL, Redis, WebSockets, Docker
+**Skedadel - Fleet Management System**
+Real-time fleet ops - vehicle tracking, dispatch, route planning, live analytics.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Sante - Bespoke Order Dashboard
-Custom order lifecycle management for a bespoke business. Full order flow from intake to fulfilment, `.dat` file generation for legacy system integration, and real-time status tracking.
-
-**Stack:** React, Python, PostgreSQL, AWS S3
+**Sante - Order Management Dashboard**
+Bespoke order lifecycle from intake to fulfilment with `.dat` file generation for legacy system integration.
 
 </td>
 <td width="50%" valign="top">
 
-### Medical Platform - AI Diagnostics Assistant
-Clinical system for loading ICD-10 and CPT codes, billing history, and patient records. Doctors discuss diagnoses with an embedded AI agent that references live clinical data.
-
-**Stack:** React, Python, PostgreSQL, OpenAI API, Docker
+**Medical Platform - AI Diagnostics**
+Clinical system with ICD-10/CPT codes and billing history. Doctors discuss diagnoses with an embedded AI agent.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### AI Marketing Platform
-Fully autonomous marketing tool. Generates blogs, social media content, runs Google Ads audits, applies campaign fixes, and handles SEO analysis - all AI-driven from a single interface.
-
-**Stack:** React, Python, OpenAI API, Google Ads API, Laravel, MySQL
+**AI Marketing Platform**
+Autonomous tool handling blogs, social media, Google Ads audits and fixes, and SEO - all AI-driven.
 
 </td>
 <td width="50%" valign="top">
 
-### Jarvis - Autonomous System Agent
-A fully autonomous agent that builds, monitors, and deploys software, checks emails, manages tasks, and coordinates workflows without human intervention.
-
-**Stack:** Python, Node.js, Docker, AWS, Shell, OpenAI API
+**Jarvis - Autonomous Agent**
+Fully autonomous system that builds, monitors, deploys software, manages emails and coordinates workflows.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### GoldMine CRM Integration
-Legacy CRM integration layer connecting GoldMine to modern web frontends. Bi-directional sync, custom field mappings, and automated data migration pipelines.
-
-**Stack:** C#, PHP, MS SQL, REST API
+**GoldMine CRM Integration**
+Legacy CRM integration with bi-directional sync, custom field mappings, and automated data migration.
 
 </td>
 <td width="50%" valign="top">
 
-### fleetpulse
-Open-source fleet tracking dashboard with live vehicle positions, driver management, route planning, and telemetry analytics.
-
-**Stack:** React, TypeScript, Node.js, PostgreSQL, Redis, WebSockets
+**fleetpulse**
+Open-source fleet tracker - live map dashboard, WebSocket telemetry, REST API, Flutter mobile app.
 
 </td>
 </tr>
@@ -116,8 +100,8 @@ Open-source fleet tracking dashboard with live vehicle positions, driver managem
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tristan-DW&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-DW&layout=compact&theme=github_dark&hide_border=true&langs_count=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tristan-DW&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-DW&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide=html)
 
 </div>
 
