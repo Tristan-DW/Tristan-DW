@@ -1,20 +1,26 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Tristan%20Wentzel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Developer%20%7C%20Head%20Architect&descAlignY=58&descColor=c9b8ff" width="100%"/>
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,flutter,python,php,laravel,cs,cpp" />
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,docker,aws,linux,bash,git" />
+<a href="https://github.com/Tristan-DW">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Developer;Head+Architect+%40+Sports+Fusion+Technology;Head+Architect+%40+Skedadel+Tech;Building+systems+that+scale." alt="Typing SVG" />
+</a>
 
-<br/><br/>
+<br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=Tristan-DW&style=for-the-badge&color=6e40c9)
-![GitHub followers](https://img.shields.io/github/followers/Tristan-DW?style=for-the-badge&color=f0883e)
+[![Profile views](https://komarev.com/ghpvc/?username=Tristan-DW&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)](https://github.com/Tristan-DW)
+[![GitHub followers](https://img.shields.io/github/followers/Tristan-DW?style=for-the-badge&color=f0883e&label=FOLLOWERS)](https://github.com/Tristan-DW?tab=followers)
+[![Years on GitHub](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=238636&label=SINCE&query=%24.created_at&url=https%3A%2F%2Fapi.github.com%2Fusers%2FTristan-DW&suffix=&prefix=)](https://github.com/Tristan-DW)
 
-# Tristan Wentzel
+</div>
 
-**Senior Full-Stack Developer at Digital Dynasty**
-**Head Architect at Sports Fusion Technology**
-**Head Architect at Skedadel Tech**
+---
 
-I design and ship production systems end to end - real-time backends, AI platforms, mobile apps, fleet systems, medical software, and DevOps pipelines.
+<div align="center">
+
+**Digital Dynasty** &nbsp;|&nbsp; **Sports Fusion Technology** &nbsp;|&nbsp; **Skedadel Tech**
+
+*Full-stack engineer owning every layer - from database schema to deployed product.*
 
 </div>
 
@@ -22,77 +28,71 @@ I design and ship production systems end to end - real-time backends, AI platfor
 
 ## Stack
 
-| Layer | Technologies |
-|---|---|
-| **Languages** | TypeScript, JavaScript, Python, PHP, Dart, C#, C++, SQL, Bash |
-| **Frontend** | React, Next.js, HTML5, CSS3, Tailwind CSS, Flutter |
-| **Backend** | Node.js, Laravel, Express, REST APIs, WebSockets |
-| **Databases** | PostgreSQL, MySQL, SQLite, Redis, MongoDB, MS SQL |
-| **Cloud & DevOps** | AWS (EC2, S3, Lambda, RDS, ECS, CloudFront), Docker, GitHub Actions, Nginx |
-| **AI & Integrations** | OpenAI API, Claude API, GoldMine CRM, Google Ads API, ICD-10/CPT |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,flutter,python,php,laravel,cs,cpp&perline=9" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,docker,aws,linux,bash,git&perline=9" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Languages | Frontend | Backend | Databases | Cloud & DevOps |
+|:---:|:---:|:---:|:---:|:---:|
+| TypeScript, JavaScript | React, Next.js | Node.js, Laravel | PostgreSQL, MySQL | AWS (EC2, ECS, RDS, S3) |
+| Python, PHP, Dart | Flutter, HTML5/CSS3 | Express, REST, WS | Redis, MongoDB | Docker, GitHub Actions |
+| C#, C++, SQL, Bash | Tailwind CSS | JWT, OAuth2 | MS SQL, SQLite | Nginx, CI/CD, Linux |
+
+</div>
 
 ---
 
 ## Selected Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<details>
+<summary><strong>Sports Fusion - Registration System</strong></summary>
+<br/>
+Full registration and management platform for sports organizations - player onboarding, event management, payments, and reporting.
+</details>
 
-**Sports Fusion - Registration System**
-Full registration platform for sports organizations - player onboarding, events, payments, reporting.
+<details>
+<summary><strong>Skedadel - Fleet Management System</strong></summary>
+<br/>
+End-to-end fleet ops platform - real-time vehicle tracking, driver management, dispatch, route planning, and live analytics.
+</details>
 
-</td>
-<td width="50%" valign="top">
+<details>
+<summary><strong>Sante - Bespoke Order Dashboard</strong></summary>
+<br/>
+Custom order lifecycle management from intake to fulfilment, with <code>.dat</code> file generation for legacy system integration.
+</details>
 
-**Skedadel - Fleet Management System**
-Real-time fleet ops - vehicle tracking, dispatch, route planning, live analytics.
+<details>
+<summary><strong>Medical Platform - AI Diagnostics Assistant</strong></summary>
+<br/>
+Clinical system loading ICD-10 and CPT codes, billing history, and patient records. Doctors discuss diagnoses with an embedded AI agent referencing live data.
+</details>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<details>
+<summary><strong>AI Marketing Platform</strong></summary>
+<br/>
+Fully autonomous marketing tool - blogs, social media, Google Ads audits and fixes, SEO analysis, all AI-driven from one interface.
+</details>
 
-**Sante - Order Management Dashboard**
-Bespoke order lifecycle from intake to fulfilment with `.dat` file generation for legacy system integration.
+<details>
+<summary><strong>Jarvis - Autonomous System Agent</strong></summary>
+<br/>
+Fully autonomous agent that builds, monitors, and deploys software, checks emails, manages tasks, and coordinates workflows without human intervention.
+</details>
 
-</td>
-<td width="50%" valign="top">
-
-**Medical Platform - AI Diagnostics**
-Clinical system with ICD-10/CPT codes and billing history. Doctors discuss diagnoses with an embedded AI agent.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**AI Marketing Platform**
-Autonomous tool handling blogs, social media, Google Ads audits and fixes, and SEO - all AI-driven.
-
-</td>
-<td width="50%" valign="top">
-
-**Jarvis - Autonomous Agent**
-Fully autonomous system that builds, monitors, deploys software, manages emails and coordinates workflows.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**GoldMine CRM Integration**
-Legacy CRM integration with bi-directional sync, custom field mappings, and automated data migration.
-
-</td>
-<td width="50%" valign="top">
-
-**fleetpulse**
-Open-source fleet tracker - live map dashboard, WebSocket telemetry, REST API, Flutter mobile app.
-
-</td>
-</tr>
-</table>
+<details>
+<summary><strong>GoldMine CRM Integration</strong></summary>
+<br/>
+Legacy CRM integration layer with bi-directional sync, custom field mappings, and automated data migration pipelines.
+</details>
 
 ---
 
@@ -100,15 +100,26 @@ Open-source fleet tracker - live map dashboard, WebSocket telemetry, REST API, F
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tristan-DW&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-DW&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide=html)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tristan-DW&theme=github-dark-blue&hide_border=true&ring=6e40c9&fire=f0883e&currStreakLabel=6e40c9&date_format=j%20M%5B%20Y%5D" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Tristan-DW&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&icon_color=6e40c9" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-DW&layout=compact&theme=github_dark&hide_border=true&langs_count=10&hide=html,css" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tristan-DW&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" width="49%"/>
 
 </div>
 
 ---
 
+## Contribution Graph
+
 <div align="center">
 
-<sub>Architected by <a href="https://github.com/Tristan-DW">Tristan</a> - Head Architect</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tristan-DW&theme=github-compact&bg_color=0d1117&color=6e40c9&line=6e40c9&point=f0883e&area=true&hide_border=true" width="100%"/>
 
 </div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer" width="100%"/>
