@@ -1,17 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Tristan%20Wentzel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Developer%20%7C%20Head%20Architect&descAlignY=58&descColor=c9b8ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Tristan%20Wentzel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Developer%20%7C%20Head%20Architect&descAlignY=58&descColor=aaaaaa" width="100%"/>
 
 <div align="center">
 
 <a href="https://github.com/Tristan-DW">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Developer;Founder+%40+Rockwell+Digital;Head+Architect+%40+Sports+Fusion+Technology;Head+Architect+%40+Skedadel+Tech;Head+Architect+%40+Digital+Dynasty;Building+systems+that+scale." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&lines=Senior+Full-Stack+Developer;Founder+%40+Rockwell+Digital;Head+Architect+%40+Sports+Fusion+Technology;Head+Architect+%40+Skedadel+Tech;Head+Architect+%40+Digital+Dynasty;Building+systems+that+scale." alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=Tristan-DW&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS)](https://github.com/Tristan-DW)
-[![GitHub followers](https://img.shields.io/github/followers/Tristan-DW?style=for-the-badge&color=f0883e&label=FOLLOWERS)](https://github.com/Tristan-DW?tab=followers)
-![Projects](https://img.shields.io/badge/PROJECTS+SHIPPED-50%2B-6e40c9?style=for-the-badge)
-![Lines](https://img.shields.io/badge/LINES+OF+CODE-1M%2B-f0883e?style=for-the-badge)
+[![Profile views](https://komarev.com/ghpvc/?username=Tristan-DW&style=for-the-badge&color=000000&label=PROFILE+VIEWS)](https://github.com/Tristan-DW)
+[![GitHub followers](https://img.shields.io/github/followers/Tristan-DW?style=for-the-badge&color=1a1a1a&label=FOLLOWERS)](https://github.com/Tristan-DW?tab=followers)
+![Projects](https://img.shields.io/badge/PROJECTS+SHIPPED-50%2B-111111?style=for-the-badge)
+![Lines](https://img.shields.io/badge/LINES+OF+CODE-1M%2B-333333?style=for-the-badge)
 
 </div>
 
@@ -31,9 +31,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,flutter,python,php,laravel,cs,cpp&perline=9" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,flutter,python,php,laravel,cs,cpp&perline=9&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,docker,aws,linux,bash,git&perline=9" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,docker,aws,linux,bash,git&perline=9&theme=dark" />
 
 </div>
 
@@ -101,15 +101,15 @@ Legacy CRM integration layer with bi-directional sync, custom field mappings, an
 
 <div align="center">
 
-![Total Contributions](https://img.shields.io/badge/TOTAL_CONTRIBUTIONS-30%2C000%2B-6e40c9?style=for-the-badge)
-![Commits This Year](https://img.shields.io/badge/COMMITS_THIS_YEAR-337-238636?style=for-the-badge)
-![Pull Requests](https://img.shields.io/badge/PULL_REQUESTS-800%2B-f0883e?style=for-the-badge)
-![Code Reviews](https://img.shields.io/badge/CODE_REVIEWS-1%2C200%2B-da3633?style=for-the-badge)
+![Total Contributions](https://img.shields.io/badge/TOTAL_CONTRIBUTIONS-30%2C000%2B-000000?style=for-the-badge)
+![Commits This Year](https://img.shields.io/badge/COMMITS_THIS_YEAR-337-111111?style=for-the-badge)
+![Pull Requests](https://img.shields.io/badge/PULL_REQUESTS-800%2B-1a1a1a?style=for-the-badge)
+![Code Reviews](https://img.shields.io/badge/CODE_REVIEWS-1%2C200%2B-333333?style=for-the-badge)
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-DW&layout=donut&theme=github_dark&hide_border=true&langs_count=8&hide=html,css,makefile,cmake,dockerfile,batchfile,powershell&size_weight=0.5&count_weight=0.5" width="45%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Tristan-DW&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-DW&layout=donut&theme=github_dark&hide_border=true&langs_count=8&hide=html,css,makefile,cmake,dockerfile,batchfile,powershell&size_weight=0.5&count_weight=0.5&bg_color=000000&text_color=ffffff&title_color=ffffff" width="45%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tristan-DW&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=4" width="50%"/>
 
 </div>
 
@@ -119,10 +119,10 @@ Legacy CRM integration layer with bi-directional sync, custom field mappings, an
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tristan-DW&theme=github-compact&bg_color=0d1117&color=6e40c9&line=6e40c9&point=f0883e&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tristan-DW&theme=github-compact&bg_color=000000&color=ffffff&line=888888&point=ffffff&area=true&area_color=333333&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
