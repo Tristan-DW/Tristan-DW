@@ -53,177 +53,97 @@
 
 ## Selected Work
 
-> Eight production systems across sports tech, fleet ops, healthtech, AI, and the web. Click any entry to expand.
+<div align="center">
+<sub>Eight production systems shipped across sports tech, fleet ops, healthtech, AI and the web.</sub>
+</div>
 
 <br/>
 
-<details>
-<summary>&nbsp;<strong>Sports Fusion</strong> &nbsp;<code>Full Platform</code>&nbsp; - Registration system for sports organizations</summary>
-<br/>
 <table>
 <tr>
-<td valign="top" width="68%">
+<td width="50%" valign="top">
 
-Built the entire platform from scratch. Handles player onboarding flows, multi-event management, integrated payments, and a full reporting suite. Every layer is owned - data model, API surface, and the operations dashboard administrators rely on daily.
+### Sports Fusion
+![Live](https://img.shields.io/badge/-Live-E8650A?style=flat-square&logoColor=white) &nbsp;
+<kbd>Sports Tech</kbd> &nbsp; <kbd>Full Platform</kbd>
+
+Registration and management infrastructure built end to end for sports organizations. Player onboarding, multi-event management, integrated payments, and a full reporting suite. Owns every layer - data model, API, and the operations dashboard administrators rely on daily.
 
 </td>
-<td valign="top" width="32%">
+<td width="50%" valign="top">
 
-**Type** &nbsp;&nbsp; `Full Platform`
-**Domain** &nbsp; `Sports Tech`
-**Status** &nbsp;&nbsp; `Live`
+### Skedadel
+![Live](https://img.shields.io/badge/-Live-E8650A?style=flat-square&logoColor=white) &nbsp;
+<kbd>Fleet Operations</kbd> &nbsp; <kbd>Full Platform</kbd>
+
+Real-time fleet intelligence platform built for a moving fleet with zero tolerance for stale data. Live GPS tracking, driver management, dispatch coordination, dynamic route planning, and a live analytics dashboard with utilization metrics across the entire fleet.
 
 </td>
 </tr>
-</table>
-</details>
 
-<details>
-<summary>&nbsp;<strong>Skedadel</strong> &nbsp;<code>Full Platform</code>&nbsp; - Fleet management and live operations</summary>
-<br/>
-<table>
 <tr>
-<td valign="top" width="68%">
+<td width="50%" valign="top">
 
-Full ops stack built for a moving fleet with zero tolerance for stale data. Live GPS tracking, driver profiles, dispatch coordination, dynamic route planning, and a real-time analytics dashboard with utilization metrics across the entire fleet.
+### Sante Bespoke
+![Live](https://img.shields.io/badge/-Live-E8650A?style=flat-square&logoColor=white) &nbsp;
+<kbd>E-commerce</kbd> &nbsp; <kbd>Dashboard System</kbd>
+
+Complete order lifecycle management from intake to fulfilment. Generates <code>.dat</code> files on demand for downstream legacy system handoff, eliminating manual data entry and keeping every stage of the order flow visible and auditable.
 
 </td>
-<td valign="top" width="32%">
+<td width="50%" valign="top">
 
-**Type** &nbsp;&nbsp; `Full Platform`
-**Domain** &nbsp; `Fleet Operations`
-**Status** &nbsp;&nbsp; `Live`
+### Medical Platform
+![Live](https://img.shields.io/badge/-Live-E8650A?style=flat-square&logoColor=white) &nbsp;
+<kbd>HealthTech</kbd> &nbsp; <kbd>Clinical System</kbd>
+
+Loads ICD-10 codes, CPT codes, billing history, and patient records into a unified context layer. Doctors interrogate live data through a conversational AI agent that references real records - not static snapshots - during the diagnostic discussion.
 
 </td>
 </tr>
-</table>
-</details>
 
-<details>
-<summary>&nbsp;<strong>Sante Bespoke</strong> &nbsp;<code>Dashboard System</code>&nbsp; - Order lifecycle with legacy integration</summary>
-<br/>
-<table>
 <tr>
-<td valign="top" width="68%">
+<td width="50%" valign="top">
 
-Manages the complete order flow from intake through to fulfilment. Generates <code>.dat</code> files on demand for downstream legacy system handoff, eliminating manual data entry entirely and keeping every stage of the order lifecycle visible and auditable.
+### AI Marketing Platform
+![Live](https://img.shields.io/badge/-Live-E8650A?style=flat-square&logoColor=white) &nbsp;
+<kbd>Digital Marketing</kbd> &nbsp; <kbd>Automation Platform</kbd>
+
+One interface handles the entire marketing stack: blog generation, social media scheduling, Google Ads audits with automated campaign fixes, and SEO analysis. Every output is AI-generated and deployment-ready. Zero manual input required.
 
 </td>
-<td valign="top" width="32%">
+<td width="50%" valign="top">
 
-**Type** &nbsp;&nbsp; `Dashboard System`
-**Domain** &nbsp; `Bespoke / E-commerce`
-**Status** &nbsp;&nbsp; `Live`
+### Jarvis
+![Live](https://img.shields.io/badge/-Live-E8650A?style=flat-square&logoColor=white) &nbsp;
+<kbd>DevOps / AI</kbd> &nbsp; <kbd>Autonomous Agent</kbd>
+
+Self-directing agent that runs software operations end to end. Builds, monitors, and deploys software. Manages emails, coordinates multi-step task pipelines, and operates across systems without a human in the loop. Designed to run indefinitely unsupervised.
 
 </td>
 </tr>
-</table>
-</details>
 
-<details>
-<summary>&nbsp;<strong>Medical Platform</strong> &nbsp;<code>Clinical System</code>&nbsp; - AI diagnostics assistant on live patient data</summary>
-<br/>
-<table>
 <tr>
-<td valign="top" width="68%">
+<td width="50%" valign="top">
 
-Loads ICD-10 codes, CPT codes, billing history, and patient records into a unified context layer. Doctors interrogate that data through a conversational AI agent that references live records - not static snapshots - in real time during the diagnostic discussion.
-
-</td>
-<td valign="top" width="32%">
-
-**Type** &nbsp;&nbsp; `Clinical System`
-**Domain** &nbsp; `HealthTech`
-**Status** &nbsp;&nbsp; `Live`
-
-</td>
-</tr>
-</table>
-</details>
-
-<details>
-<summary>&nbsp;<strong>AI Marketing Platform</strong> &nbsp;<code>Automation Platform</code>&nbsp; - Fully autonomous marketing engine</summary>
-<br/>
-<table>
-<tr>
-<td valign="top" width="68%">
-
-One interface handles everything: blog generation, social media scheduling, Google Ads audits with automated campaign fixes, and SEO analysis. Every output is AI-generated and deployment-ready. Zero manual input required.
-
-</td>
-<td valign="top" width="32%">
-
-**Type** &nbsp;&nbsp; `Automation Platform`
-**Domain** &nbsp; `Digital Marketing`
-**Status** &nbsp;&nbsp; `Live`
-
-</td>
-</tr>
-</table>
-</details>
-
-<details>
-<summary>&nbsp;<strong>Jarvis</strong> &nbsp;<code>Autonomous Agent</code>&nbsp; - Self-directing system operations agent</summary>
-<br/>
-<table>
-<tr>
-<td valign="top" width="68%">
-
-Builds, monitors, and deploys software autonomously. Handles email management, coordinates multi-step task pipelines, and operates across systems without requiring a human in the loop. Designed to run indefinitely unsupervised.
-
-</td>
-<td valign="top" width="32%">
-
-**Type** &nbsp;&nbsp; `Autonomous Agent`
-**Domain** &nbsp; `DevOps / AI`
-**Status** &nbsp;&nbsp; `Live`
-
-</td>
-</tr>
-</table>
-</details>
-
-<details>
-<summary>&nbsp;<strong>GoldMine CRM</strong> &nbsp;<code>Integration Layer</code>&nbsp; - Legacy CRM sync without disruption</summary>
-<br/>
-<table>
-<tr>
-<td valign="top" width="68%">
+### GoldMine CRM
+![Live](https://img.shields.io/badge/-Live-E8650A?style=flat-square&logoColor=white) &nbsp;
+<kbd>Legacy Systems</kbd> &nbsp; <kbd>Integration Layer</kbd>
 
 Bi-directional sync between GoldMine CRM and modern tooling. Custom field mappings, automated migration pipelines, and a bridge layer that kept a business-critical legacy system running without touching live operations.
 
 </td>
-<td valign="top" width="32%">
+<td width="50%" valign="top">
 
-**Type** &nbsp;&nbsp; `CRM Integration`
-**Domain** &nbsp; `Legacy Systems`
-**Status** &nbsp;&nbsp; `Live`
+### Vysto AI
+![MVP](https://img.shields.io/badge/-MVP-555555?style=flat-square&logoColor=white) &nbsp;
+<kbd>AI / Web</kbd> &nbsp; <kbd>Platform MVP</kbd>
 
-</td>
-</tr>
-</table>
-</details>
-
-<details>
-<summary>&nbsp;<strong>Vysto AI</strong> &nbsp;<code>Platform MVP</code>&nbsp; - Conversational web platform replacing navigation</summary>
-<br/>
-<table>
-<tr>
-<td valign="top" width="68%">
-
-Users talk to the site instead of clicking through it. Pages build in real time as the conversation progresses, showing the user exactly what they are looking for. Full CMS underneath - learns from an existing site, generates a Vysto version of it, and handles image, audio, and text generation natively. Classic navigation available as a fallback.
-
-</td>
-<td valign="top" width="32%">
-
-**Type** &nbsp;&nbsp; `Platform MVP`
-**Domain** &nbsp; `AI / Web`
-**Status** &nbsp;&nbsp; `MVP`
+Users talk to the site instead of clicking through it. Pages build in real time as the conversation progresses. Full CMS underneath - learns from an existing site, generates a Vysto version of it, and handles image, audio, and text generation natively. Classic navigation available as a fallback.
 
 </td>
 </tr>
 </table>
-</details>
 
 ---
 
