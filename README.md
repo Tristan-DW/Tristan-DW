@@ -53,84 +53,176 @@
 
 ## Selected Work
 
-<details>
-<summary><strong>Sports Fusion - Registration System</strong></summary>
+> Eight production systems across sports tech, fleet ops, healthtech, AI, and the web. Click any entry to expand.
+
 <br/>
 
-**End-to-end registration infrastructure for sports organizations at scale.**
+<details>
+<summary>&nbsp;<strong>Sports Fusion</strong> &nbsp;<code>Full Platform</code>&nbsp; - Registration system for sports organizations</summary>
+<br/>
+<table>
+<tr>
+<td valign="top" width="68%">
 
-Built the entire platform from scratch - player onboarding flows, multi-event management, integrated payments, and a full reporting suite. Owns every layer: data model, API, and the ops dashboard administrators live in day to day.
+Built the entire platform from scratch. Handles player onboarding flows, multi-event management, integrated payments, and a full reporting suite. Every layer is owned - data model, API surface, and the operations dashboard administrators rely on daily.
 
+</td>
+<td valign="top" width="32%">
+
+**Type** &nbsp;&nbsp; `Full Platform`
+**Domain** &nbsp; `Sports Tech`
+**Status** &nbsp;&nbsp; `Live`
+
+</td>
+</tr>
+</table>
 </details>
 
 <details>
-<summary><strong>Skedadel - Fleet Management System</strong></summary>
+<summary>&nbsp;<strong>Skedadel</strong> &nbsp;<code>Full Platform</code>&nbsp; - Fleet management and live operations</summary>
 <br/>
+<table>
+<tr>
+<td valign="top" width="68%">
 
-**Real-time fleet intelligence platform handling live vehicle operations.**
+Full ops stack built for a moving fleet with zero tolerance for stale data. Live GPS tracking, driver profiles, dispatch coordination, dynamic route planning, and a real-time analytics dashboard with utilization metrics across the entire fleet.
 
-Full ops stack - live GPS tracking, driver profiles, dispatch coordination, dynamic route planning, and an analytics dashboard with live utilization metrics. Built to handle a moving fleet with zero tolerance for stale data.
+</td>
+<td valign="top" width="32%">
 
+**Type** &nbsp;&nbsp; `Full Platform`
+**Domain** &nbsp; `Fleet Operations`
+**Status** &nbsp;&nbsp; `Live`
+
+</td>
+</tr>
+</table>
 </details>
 
 <details>
-<summary><strong>Sante - Bespoke Order Dashboard</strong></summary>
+<summary>&nbsp;<strong>Sante Bespoke</strong> &nbsp;<code>Dashboard System</code>&nbsp; - Order lifecycle with legacy integration</summary>
 <br/>
+<table>
+<tr>
+<td valign="top" width="68%">
 
-**Custom order lifecycle system with legacy system bridge.**
+Manages the complete order flow from intake through to fulfilment. Generates <code>.dat</code> files on demand for downstream legacy system handoff, eliminating manual data entry entirely and keeping every stage of the order lifecycle visible and auditable.
 
-Manages the complete order flow from intake through to fulfilment. Generates <code>.dat</code> files on demand for downstream legacy system integration - a precise handoff that eliminates manual data entry entirely.
+</td>
+<td valign="top" width="32%">
 
+**Type** &nbsp;&nbsp; `Dashboard System`
+**Domain** &nbsp; `Bespoke / E-commerce`
+**Status** &nbsp;&nbsp; `Live`
+
+</td>
+</tr>
+</table>
 </details>
 
 <details>
-<summary><strong>Medical Platform - AI Diagnostics Assistant</strong></summary>
+<summary>&nbsp;<strong>Medical Platform</strong> &nbsp;<code>Clinical System</code>&nbsp; - AI diagnostics assistant on live patient data</summary>
 <br/>
+<table>
+<tr>
+<td valign="top" width="68%">
 
-**Clinical decision support tool built on live patient data.**
+Loads ICD-10 codes, CPT codes, billing history, and patient records into a unified context layer. Doctors interrogate that data through a conversational AI agent that references live records - not static snapshots - in real time during the diagnostic discussion.
 
-Loads ICD-10 codes, CPT codes, billing history, and patient records into context, then lets doctors interrogate that data through a conversational AI agent. The agent references live records - not static snapshots - during the diagnostic discussion.
+</td>
+<td valign="top" width="32%">
 
+**Type** &nbsp;&nbsp; `Clinical System`
+**Domain** &nbsp; `HealthTech`
+**Status** &nbsp;&nbsp; `Live`
+
+</td>
+</tr>
+</table>
 </details>
 
 <details>
-<summary><strong>AI Marketing Platform</strong></summary>
+<summary>&nbsp;<strong>AI Marketing Platform</strong> &nbsp;<code>Automation Platform</code>&nbsp; - Fully autonomous marketing engine</summary>
 <br/>
+<table>
+<tr>
+<td valign="top" width="68%">
 
-**Fully autonomous marketing engine - zero manual input required.**
+One interface handles everything: blog generation, social media scheduling, Google Ads audits with automated campaign fixes, and SEO analysis. Every output is AI-generated and deployment-ready. Zero manual input required.
 
-One interface drives it all: blog generation, social media scheduling, Google Ads audits with automated campaign fixes, and SEO analysis. Every output is AI-generated and ready to deploy.
+</td>
+<td valign="top" width="32%">
 
+**Type** &nbsp;&nbsp; `Automation Platform`
+**Domain** &nbsp; `Digital Marketing`
+**Status** &nbsp;&nbsp; `Live`
+
+</td>
+</tr>
+</table>
 </details>
 
 <details>
-<summary><strong>Jarvis - Autonomous System Agent</strong></summary>
+<summary>&nbsp;<strong>Jarvis</strong> &nbsp;<code>Autonomous Agent</code>&nbsp; - Self-directing system operations agent</summary>
 <br/>
+<table>
+<tr>
+<td valign="top" width="68%">
 
-**Self-directing agent that runs software operations end to end.**
+Builds, monitors, and deploys software autonomously. Handles email management, coordinates multi-step task pipelines, and operates across systems without requiring a human in the loop. Designed to run indefinitely unsupervised.
 
-Builds, monitors, and deploys software autonomously. Manages emails, coordinates task pipelines, and handles multi-system workflows without requiring a human in the loop. Designed to operate indefinitely unsupervised.
+</td>
+<td valign="top" width="32%">
 
+**Type** &nbsp;&nbsp; `Autonomous Agent`
+**Domain** &nbsp; `DevOps / AI`
+**Status** &nbsp;&nbsp; `Live`
+
+</td>
+</tr>
+</table>
 </details>
 
 <details>
-<summary><strong>GoldMine CRM Integration</strong></summary>
+<summary>&nbsp;<strong>GoldMine CRM</strong> &nbsp;<code>Integration Layer</code>&nbsp; - Legacy CRM sync without disruption</summary>
 <br/>
+<table>
+<tr>
+<td valign="top" width="68%">
 
-**Legacy CRM integration layer keeping old and new systems in sync.**
+Bi-directional sync between GoldMine CRM and modern tooling. Custom field mappings, automated migration pipelines, and a bridge layer that kept a business-critical legacy system running without touching live operations.
 
-Bi-directional sync between GoldMine and modern tooling, with custom field mappings and automated migration pipelines. Bridged a system the business depended on without disrupting live operations.
+</td>
+<td valign="top" width="32%">
 
+**Type** &nbsp;&nbsp; `CRM Integration`
+**Domain** &nbsp; `Legacy Systems`
+**Status** &nbsp;&nbsp; `Live`
+
+</td>
+</tr>
+</table>
 </details>
 
 <details>
-<summary><strong>Vysto AI - Conversational Web Platform</strong></summary>
+<summary>&nbsp;<strong>Vysto AI</strong> &nbsp;<code>Platform MVP</code>&nbsp; - Conversational web platform replacing navigation</summary>
 <br/>
+<table>
+<tr>
+<td valign="top" width="68%">
 
-**The site is the conversation - navigation replaced by dialogue.**
+Users talk to the site instead of clicking through it. Pages build in real time as the conversation progresses, showing the user exactly what they are looking for. Full CMS underneath - learns from an existing site, generates a Vysto version of it, and handles image, audio, and text generation natively. Classic navigation available as a fallback.
 
-Built the MVP for Vysto AI: a platform where users talk to a website instead of clicking through it. As the conversation progresses, pages build in real time to show the user exactly what they are looking for. Under the hood it is a full CMS - it learns from an existing site, generates a Vysto version of it, and handles image, audio, and text generation natively. Classic navigation remains available as a fallback. The result is a fundamentally different model for how people interact with web content.
+</td>
+<td valign="top" width="32%">
 
+**Type** &nbsp;&nbsp; `Platform MVP`
+**Domain** &nbsp; `AI / Web`
+**Status** &nbsp;&nbsp; `MVP`
+
+</td>
+</tr>
+</table>
 </details>
 
 ---
