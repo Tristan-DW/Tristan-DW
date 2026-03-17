@@ -108,12 +108,8 @@ Legacy CRM integration layer with bi-directional sync, custom field mappings, an
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tristan-DW&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&icon_color=6e40c9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-DW&layout=donut&theme=github_dark&hide_border=true&langs_count=8&hide=html,css,makefile,cmake,dockerfile,batchfile,powershell&size_weight=0.5&count_weight=0.5" width="40%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tristan-DW&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-DW&layout=donut&theme=github_dark&hide_border=true&langs_count=8&hide=html,css,makefile,cmake,dockerfile,batchfile,powershell&size_weight=0.5&count_weight=0.5" width="45%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Tristan-DW&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" width="50%"/>
 
 </div>
 
