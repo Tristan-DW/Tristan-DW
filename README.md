@@ -158,8 +158,22 @@ Users talk to the site instead of clicking through it. Pages build in real time 
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-DW&layout=donut&theme=github_dark&hide_border=true&langs_count=8&hide=html,css,makefile,cmake,dockerfile,batchfile,powershell&size_weight=0.5&count_weight=0.5&bg_color=000000&text_color=ffffff&title_color=ffffff" width="45%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Tristan-DW&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=4" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-DW&layout=donut&theme=github_dark&hide_border=true&langs_count=8&hide=html,css,makefile,cmake,dockerfile,batchfile,powershell&size_weight=0.5&count_weight=0.5&bg_color=000000&text_color=ffffff&title_color=ffffff" width="38%"/>
+&nbsp;&nbsp;&nbsp;
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/FULL--STACK-ARCHITECT-E8650A?style=for-the-badge&labelColor=111111"/></td>
+<td align="center"><img src="https://img.shields.io/badge/50%2B-PROJECTS+SHIPPED-E8650A?style=for-the-badge&labelColor=111111"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/8-PRODUCTION+SYSTEMS-333333?style=for-the-badge&labelColor=111111"/></td>
+<td align="center"><img src="https://img.shields.io/badge/1M%2B-LINES+OF+CODE-333333?style=for-the-badge&labelColor=111111"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/AI-INTEGRATION-555555?style=for-the-badge&labelColor=111111"/></td>
+<td align="center"><img src="https://img.shields.io/badge/CLOUD-%26+DEVOPS-555555?style=for-the-badge&labelColor=111111"/></td>
+</tr>
+</table>
 
 </div>
 
