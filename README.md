@@ -56,43 +56,71 @@
 <details>
 <summary><strong>Sports Fusion - Registration System</strong></summary>
 <br/>
-Full registration and management platform for sports organizations - player onboarding, event management, payments, and reporting.
+
+**End-to-end registration infrastructure for sports organizations at scale.**
+
+Built the entire platform from scratch - player onboarding flows, multi-event management, integrated payments, and a full reporting suite. Owns every layer: data model, API, and the ops dashboard administrators live in day to day.
+
 </details>
 
 <details>
 <summary><strong>Skedadel - Fleet Management System</strong></summary>
 <br/>
-End-to-end fleet ops platform - real-time vehicle tracking, driver management, dispatch, route planning, and live analytics.
+
+**Real-time fleet intelligence platform handling live vehicle operations.**
+
+Full ops stack - live GPS tracking, driver profiles, dispatch coordination, dynamic route planning, and an analytics dashboard with live utilization metrics. Built to handle a moving fleet with zero tolerance for stale data.
+
 </details>
 
 <details>
 <summary><strong>Sante - Bespoke Order Dashboard</strong></summary>
 <br/>
-Custom order lifecycle management from intake to fulfilment, with <code>.dat</code> file generation for legacy system integration.
+
+**Custom order lifecycle system with legacy system bridge.**
+
+Manages the complete order flow from intake through to fulfilment. Generates <code>.dat</code> files on demand for downstream legacy system integration - a precise handoff that eliminates manual data entry entirely.
+
 </details>
 
 <details>
 <summary><strong>Medical Platform - AI Diagnostics Assistant</strong></summary>
 <br/>
-Clinical system loading ICD-10 and CPT codes, billing history, and patient records. Doctors discuss diagnoses with an embedded AI agent referencing live data.
+
+**Clinical decision support tool built on live patient data.**
+
+Loads ICD-10 codes, CPT codes, billing history, and patient records into context, then lets doctors interrogate that data through a conversational AI agent. The agent references live records - not static snapshots - during the diagnostic discussion.
+
 </details>
 
 <details>
 <summary><strong>AI Marketing Platform</strong></summary>
 <br/>
-Fully autonomous marketing tool - blogs, social media, Google Ads audits and fixes, SEO analysis, all AI-driven from one interface.
+
+**Fully autonomous marketing engine - zero manual input required.**
+
+One interface drives it all: blog generation, social media scheduling, Google Ads audits with automated campaign fixes, and SEO analysis. Every output is AI-generated and ready to deploy.
+
 </details>
 
 <details>
 <summary><strong>Jarvis - Autonomous System Agent</strong></summary>
 <br/>
-Fully autonomous agent that builds, monitors, and deploys software, checks emails, manages tasks, and coordinates workflows without human intervention.
+
+**Self-directing agent that runs software operations end to end.**
+
+Builds, monitors, and deploys software autonomously. Manages emails, coordinates task pipelines, and handles multi-system workflows without requiring a human in the loop. Designed to operate indefinitely unsupervised.
+
 </details>
 
 <details>
 <summary><strong>GoldMine CRM Integration</strong></summary>
 <br/>
-Legacy CRM integration layer with bi-directional sync, custom field mappings, and automated data migration pipelines.
+
+**Legacy CRM integration layer keeping old and new systems in sync.**
+
+Bi-directional sync between GoldMine and modern tooling, with custom field mappings and automated migration pipelines. Bridged a system the business depended on without disrupting live operations.
+
 </details>
 
 ---
