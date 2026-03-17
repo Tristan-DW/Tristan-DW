@@ -1,8 +1,8 @@
 # Activity Log
 
-## Entry 0119
+## Entry 0120
 
-- **Timestamp:** `2026-03-16T14:43:02Z`
-- **Commit:** 119 of 120
-- **Note:** refactor: extract reusable helper functions
-- **Nonce:** 236620
+- **Timestamp:** `2026-03-17T11:03:01Z`
+- **Commit:** 120 of 120
+- **Note:** fix: handle null reference in parser
+- **Nonce:** 437200
