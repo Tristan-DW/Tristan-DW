@@ -81,7 +81,7 @@ Founder & Head Architect. Registration used by SAFA, a social mobile app, and a 
 ![Live](https://img.shields.io/badge/-Live-FF6A00?style=flat-square) &nbsp;
 <kbd>Fleet Ops</kbd> &nbsp; <kbd>Full Platform</kbd>
 
-Head Architect. Real-time fleet and last-mile delivery: live GPS, dispatch, on-demand and scheduled modes.
+Head Architect. Last-mile delivery for Pedros, Wackys, KFC, Nando's, Foodlovers, and Medirite: live GPS, dispatch, on-demand and scheduled modes.
 
 [Case study](https://tristanwentzel.com/work/skedadel) · [Live](https://skedadel.co/)
 
