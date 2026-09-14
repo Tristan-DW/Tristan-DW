@@ -3,12 +3,12 @@
   Work-focused. Orange/black chrome aligned with tristanwentzel.com.
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070707,100:FF6A00&height=200&section=header&text=Tristan%20Wentzel&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%C2%B7%20System%20Architect%20%C2%B7%20Senior%20Full-Stack&descAlignY=56&descColor=dddddd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070707,100:FF6A00&height=200&section=header&text=Tristan%20Wentzel&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20Systems%20Architect&descAlignY=56&descColor=dddddd" width="100%"/>
 
 <div align="center">
 
 <a href="https://tristanwentzel.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&pause=1200&color=FF6A00&center=true&vCenter=true&width=780&lines=Founder+%C2%B7+System+Architect+%C2%B7+Senior+Full-Stack;Senior+Software+Engineer+%40+Vysto+AI;Founder+%26+Head+Architect+%40+Sports+Fusion;Head+Architect+%40+Skedadel+Tech;Senior+Full-Stack+%40+Media-Zoo;Architecture+through+deployment." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&pause=1200&color=FF6A00&center=true&vCenter=true&width=780&lines=Senior+Software+Engineer+%7C+Systems+Architect;Senior+Software+Engineer+%40+Vysto+AI;Founder+%26+Head+Architect+%40+Sports+Fusion;Head+Architect+%40+Skedadel+Tech;Senior+Full-Stack+%40+Media-Zoo;Architecture+through+deployment." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -88,13 +88,13 @@ Head Architect. Real-time fleet and last-mile delivery: live GPS, dispatch, on-d
 </td>
 <td width="50%" valign="top">
 
-### Expert Care Rx
+### Expert Care PMR Module
 ![Live](https://img.shields.io/badge/-Live-FF6A00?style=flat-square) &nbsp;
-<kbd>HealthTech</kbd> &nbsp; <kbd>AI</kbd>
+<kbd>HealthTech</kbd> &nbsp; <kbd>PMR</kbd>
 
-Clinical context layer: ICD-10, CPT, billing, and patient records in one place clinicians can interrogate in-session.
+PMR module: CMS-backed patient curation, AccuRx outreach, and rule-driven work lanes for medication review and clinical follow-up.
 
-[Case study](https://tristanwentzel.com/work/expert-care-rx) · [Live](http://expertcarerx.co.uk/)
+[Case study](https://tristanwentzel.com/work/expert-care-pmr) · [Live](http://expertcarerx.co.uk/)
 
 </td>
 </tr>
