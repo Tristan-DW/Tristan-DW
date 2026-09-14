@@ -1,5 +1,5 @@
 <!--
-  Tristan Wentzel — GitHub profile README
+  Tristan Wentzel | GitHub profile README
   Work-focused. Orange/black chrome aligned with tristanwentzel.com.
 -->
 
@@ -43,7 +43,7 @@
 ## Selected work
 
 <div align="center">
-<sub>Featured production systems — case studies on the site.</sub>
+<sub>Featured production systems. Case studies on the site.</sub>
 </div>
 
 <br/>
@@ -56,7 +56,7 @@
 ![MVP](https://img.shields.io/badge/-MVP-555555?style=flat-square) &nbsp;
 <kbd>AI / Web</kbd> &nbsp; <kbd>CMS</kbd>
 
-Head Architect. Conversational web platform where pages build as the conversation progresses — CMS foundations plus native image, audio, and text generation.
+Head Architect. Conversational web platform where pages build as the conversation progresses. CMS foundations plus native image, audio, and text generation.
 
 [Case study](https://tristanwentzel.com/work/vysto-ai) · [Live](https://vysto.ai/c/)
 
@@ -67,7 +67,7 @@ Head Architect. Conversational web platform where pages build as the conversatio
 ![Live](https://img.shields.io/badge/-Live-FF6A00?style=flat-square) &nbsp;
 <kbd>Sports Tech</kbd> &nbsp; <kbd>Full Platform</kbd>
 
-Co-Founder & Head Architect. Registration, tournaments, and talent tooling for South African football — provincial signed-in workspaces with federation control.
+Co-Founder & Head Architect. Registration, tournaments, and talent tooling for South African football. Provincial signed-in workspaces with federation control.
 
 [Case study](https://tristanwentzel.com/work/sports-fusion) · [Company](https://sportsfusionsa.com/) · [Apps](https://mysportsapplication.com/)
 
@@ -80,7 +80,7 @@ Co-Founder & Head Architect. Registration, tournaments, and talent tooling for S
 ![Live](https://img.shields.io/badge/-Live-FF6A00?style=flat-square) &nbsp;
 <kbd>Fleet Ops</kbd> &nbsp; <kbd>Full Platform</kbd>
 
-Head Architect. Real-time fleet and last-mile delivery — live GPS, dispatch, on-demand and scheduled modes.
+Head Architect. Real-time fleet and last-mile delivery: live GPS, dispatch, on-demand and scheduled modes.
 
 [Case study](https://tristanwentzel.com/work/skedadel) · [Live](https://skedadel.co/)
 
@@ -91,7 +91,7 @@ Head Architect. Real-time fleet and last-mile delivery — live GPS, dispatch, o
 ![Live](https://img.shields.io/badge/-Live-FF6A00?style=flat-square) &nbsp;
 <kbd>HealthTech</kbd> &nbsp; <kbd>AI</kbd>
 
-Clinical context layer — ICD-10, CPT, billing, and patient records in one place clinicians can interrogate in-session.
+Clinical context layer: ICD-10, CPT, billing, and patient records in one place clinicians can interrogate in-session.
 
 [Case study](https://tristanwentzel.com/work/expert-care-rx) · [Live](http://expertcarerx.co.uk/)
 
@@ -101,7 +101,7 @@ Clinical context layer — ICD-10, CPT, billing, and patient records in one plac
 
 <div align="center">
 
-<sub>More under <a href="https://tristanwentzel.com/#work">Additional work</a> — Santé, AI marketing, Saturnus, GoldMine CRM.</sub>
+<sub>More under <a href="https://tristanwentzel.com/#work">Additional work</a>: Santé, AI marketing, Saturnus, GoldMine CRM.</sub>
 
 </div>
 
@@ -121,7 +121,7 @@ Clinical context layer — ICD-10, CPT, billing, and patient records in one plac
 |:---:|:---:|:---:|:---:|:---:|
 | TypeScript, JS | React, Next.js | Node, Laravel | PostgreSQL, MySQL | AWS, Docker |
 | Python, PHP, Dart | Flutter | Express, REST | Redis, MongoDB | Linux, Nginx |
-| C#, C++, SQL, Bash | Tailwind | JWT / OAuth | — | CI/CD |
+| C#, C++, SQL, Bash | Tailwind | JWT / OAuth | - | CI/CD |
 
 </div>
 
