@@ -8,7 +8,7 @@
 <div align="center">
 
 <a href="https://tristanwentzel.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&pause=1200&color=FF6A00&center=true&vCenter=true&width=780&lines=Founder+%C2%B7+System+Architect+%C2%B7+Senior+Full-Stack;Senior+Software+Engineer+%40+Vysto+AI;Founder+%26+Head+Architect+%40+Sports+Fusion;Head+Architect+%40+Skedadel+Tech;Senior+Full-Stack+%40+Digital+Dynasty;Architecture+through+deployment." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&pause=1200&color=FF6A00&center=true&vCenter=true&width=780&lines=Founder+%C2%B7+System+Architect+%C2%B7+Senior+Full-Stack;Senior+Software+Engineer+%40+Vysto+AI;Founder+%26+Head+Architect+%40+Sports+Fusion;Head+Architect+%40+Skedadel+Tech;Senior+Full-Stack+%40+Media-Zoo;Architecture+through+deployment." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -32,7 +32,7 @@
 | Company | Title | When |
 |:--|:--|:--|
 | **[The Worm Herder Pty Ltd](https://twhwormery.co.za/)** | Part-Time Web Developer | 2020 to 2023 |
-| **Digital Dynasty** | Senior Full-Stack Developer | Nov 2024 to present |
+| **[Media-Zoo](https://media-zoo.com/)** | Senior Full-Stack Developer | Nov 2024 to present |
 | **[Sports Fusion Technology](https://sportsfusionsa.com/)** | Founder & Head Architect | Jun 2025 to present |
 | **[Skedadel Tech](https://skedadel.co/)** | Head Architect | Oct 2025 to present |
 | **[Vysto AI](https://vysto.ai/c/)** | Senior Software Engineer | Dec 2025 to present |
