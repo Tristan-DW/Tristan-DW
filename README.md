@@ -3,12 +3,12 @@
   Work-focused. Orange/black chrome aligned with tristanwentzel.com.
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070707,100:FF6A00&height=200&section=header&text=Tristan%20Wentzel&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Co-Founder%20%C2%B7%20System%20Architect%20%C2%B7%20Senior%20Full-Stack&descAlignY=56&descColor=dddddd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070707,100:FF6A00&height=200&section=header&text=Tristan%20Wentzel&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%C2%B7%20System%20Architect%20%C2%B7%20Senior%20Full-Stack&descAlignY=56&descColor=dddddd" width="100%"/>
 
 <div align="center">
 
 <a href="https://tristanwentzel.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&pause=1200&color=FF6A00&center=true&vCenter=true&width=780&lines=Co-Founder+%C2%B7+System+Architect+%C2%B7+Senior+Full-Stack;Senior+Software+Engineer+%40+Vysto+AI;Co-Founder+%26+Head+Architect+%40+Sports+Fusion;Head+Architect+%40+Skedadel+Tech;Senior+Full-Stack+%40+Digital+Dynasty;Architecture+through+deployment." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&pause=1200&color=FF6A00&center=true&vCenter=true&width=780&lines=Founder+%C2%B7+System+Architect+%C2%B7+Senior+Full-Stack;Senior+Software+Engineer+%40+Vysto+AI;Founder+%26+Head+Architect+%40+Sports+Fusion;Head+Architect+%40+Skedadel+Tech;Senior+Full-Stack+%40+Digital+Dynasty;Architecture+through+deployment." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -32,7 +32,7 @@
 | Company | Title | When |
 |:--|:--|:--|
 | **Digital Dynasty** | Senior Full-Stack Developer | Nov 2024 to present |
-| **[Sports Fusion Technology](https://sportsfusionsa.com/)** | Co-Founder & Head Architect | Jun 2025 to present |
+| **[Sports Fusion Technology](https://sportsfusionsa.com/)** | Founder & Head Architect | Jun 2025 to present |
 | **[Skedadel Tech](https://skedadel.co/)** | Head Architect | Oct 2025 to present |
 | **[Vysto AI](https://vysto.ai/c/)** | Senior Software Engineer | Dec 2025 to present |
 
@@ -67,7 +67,7 @@ Senior Software Engineer. Conversational web platform where pages build as the c
 ![Live](https://img.shields.io/badge/-Live-FF6A00?style=flat-square) &nbsp;
 <kbd>Sports Tech</kbd> &nbsp; <kbd>Full Platform</kbd>
 
-Co-Founder & Head Architect. Registration, tournaments, and talent tooling for South African football. Provincial signed-in workspaces with federation control.
+Founder & Head Architect. Registration, tournaments, and talent tooling for South African football. Provincial signed-in workspaces with federation control.
 
 [Case study](https://tristanwentzel.com/work/sports-fusion) · [Company](https://sportsfusionsa.com/) · [Apps](https://mysportsapplication.com/)
 
