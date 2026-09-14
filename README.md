@@ -112,84 +112,31 @@ Clinical context layer: ICD-10, CPT, billing, and patient records in one place c
 
 <div align="center">
 
-**Languages**
-
-<img src="https://tristanwentzel.com/public/images/stack/typescript.svg" alt="TypeScript" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/javascript.svg" alt="JavaScript" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/python.svg" alt="Python" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/php.svg" alt="PHP" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/dart.svg" alt="Dart" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/csharp.svg" alt="C#" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/cplusplus.svg" alt="C++" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/gnubash.svg" alt="Bash" height="36" />
-
-**Frontend & Mobile**
-
-<img src="https://tristanwentzel.com/public/images/stack/react.svg" alt="React" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/nextdotjs.svg" alt="Next.js" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/flutter.svg" alt="Flutter" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/tailwindcss.svg" alt="Tailwind CSS" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/html5.svg" alt="HTML5" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/css.svg" alt="CSS3" height="36" />
-
-**Backend & APIs**
-
-<img src="https://tristanwentzel.com/public/images/stack/nodedotjs.svg" alt="Node.js" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/laravel.svg" alt="Laravel" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/express.svg" alt="Express" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/socketdotio.svg" alt="WebSockets" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/jsonwebtokens.svg" alt="JWT" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/openid.svg" alt="OAuth2" height="36" />
-
-**Databases**
-
-<img src="https://tristanwentzel.com/public/images/stack/postgresql.svg" alt="PostgreSQL" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/mysql.svg" alt="MySQL" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/redis.svg" alt="Redis" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/mongodb.svg" alt="MongoDB" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/microsoftsqlserver.svg" alt="MS SQL" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/sqlite.svg" alt="SQLite" height="36" />
-
-**Cloud & DevOps**
-
-<img src="https://tristanwentzel.com/public/images/stack/amazonaws.svg" alt="AWS" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/docker.svg" alt="Docker" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/githubactions.svg" alt="GitHub Actions" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/nginx.svg" alt="Nginx" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/linux.svg" alt="Linux" height="36" />
-
-**AI & Integrations**
-
-<img src="https://tristanwentzel.com/public/images/stack/openai.svg" alt="LLM Integration" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/salesforce.svg" alt="CRM Systems" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/stripe.svg" alt="Payment APIs" height="36" />
-<img src="https://tristanwentzel.com/public/images/stack/googleads.svg" alt="Google Ads API" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/typescript.svg" alt="TypeScript" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/javascript.svg" alt="JavaScript" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/python.svg" alt="Python" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/php.svg" alt="PHP" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/dart.svg" alt="Dart" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/csharp.svg" alt="C#" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/cplusplus.svg" alt="C++" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/gnubash.svg" alt="Bash" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/react.svg" alt="React" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/nextdotjs.svg" alt="Next.js" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/flutter.svg" alt="Flutter" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/tailwindcss.svg" alt="Tailwind CSS" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/nodedotjs.svg" alt="Node.js" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/laravel.svg" alt="Laravel" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/express.svg" alt="Express" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/postgresql.svg" alt="PostgreSQL" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/mysql.svg" alt="MySQL" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/redis.svg" alt="Redis" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/mongodb.svg" alt="MongoDB" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/amazonaws.svg" alt="AWS" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/docker.svg" alt="Docker" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/githubactions.svg" alt="GitHub Actions" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/openai.svg" alt="LLM Integration" height="28" />
+<img src="https://tristanwentzel.com/public/images/stack/stripe.svg" alt="Payment APIs" height="28" />
 
 </div>
 
----
-
-## Activity
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tristan-DW&layout=compact&hide_border=true&langs_count=8&hide=html,css,makefile,cmake,dockerfile,batchfile,powershell&bg_color=070707&text_color=f3f3f3&title_color=FF6A00&icon_color=FF6A00" alt="Most used languages" />
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/FF6A00/Tristan-DW" width="100%" alt="Contribution graph" />
-
-</div>
-
----
-
-## Elsewhere
-
-<div align="center">
-
-[![Work](https://img.shields.io/badge/Work-tristanwentzel.com-FF6A00?style=for-the-badge&labelColor=070707)](https://tristanwentzel.com)
-[![Contact](https://img.shields.io/badge/Contact-Get+in+touch-FF6A00?style=for-the-badge&labelColor=070707)](https://tristanwentzel.com/#contact)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A00,100:070707&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A00,100:070707&height=160&section=footer" width="100%"/>
