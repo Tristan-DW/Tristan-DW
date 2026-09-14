@@ -29,12 +29,12 @@
 
 <div align="center">
 
-| Company | Title |
-|:--|:--|
-| **[Vysto AI](https://vysto.ai/c/)** | Head Architect |
-| **[Sports Fusion Technology](https://sportsfusionsa.com/)** | Co-Founder & Head Architect |
-| **[Skedadel Tech](https://skedadel.co/)** | Head Architect |
-| **Digital Dynasty** | Senior Full-Stack Developer |
+| Company | Title | When |
+|:--|:--|:--|
+| **Digital Dynasty** | Senior Full-Stack Developer | Nov 2024 to present |
+| **[Sports Fusion Technology](https://sportsfusionsa.com/)** | Co-Founder & Head Architect | Jun 2025 to present |
+| **[Skedadel Tech](https://skedadel.co/)** | Head Architect | Oct 2025 to present |
+| **[Vysto AI](https://vysto.ai/c/)** | Head Architect | Dec 2025 to present |
 
 </div>
 
