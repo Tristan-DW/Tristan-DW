@@ -67,7 +67,7 @@ Senior Software Engineer. Conversational web platform where pages build as the c
 ![Live](https://img.shields.io/badge/-Live-FF6A00?style=flat-square) &nbsp;
 <kbd>Sports Tech</kbd> &nbsp; <kbd>Full Platform</kbd>
 
-Founder & Head Architect. Registration, tournaments, and talent tooling for South African football. Provincial signed-in workspaces with federation control.
+Founder & Head Architect. Registration used by SAFA, a social mobile app, and a talent management and acquisition portal for South African football.
 
 [Case study](https://tristanwentzel.com/work/sports-fusion) · [Company](https://sportsfusionsa.com/) · [Apps](https://mysportsapplication.com/)
 
