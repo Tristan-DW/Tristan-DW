@@ -8,7 +8,7 @@
 <div align="center">
 
 <a href="https://tristanwentzel.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&pause=1200&color=FF6A00&center=true&vCenter=true&width=780&lines=Co-Founder+%C2%B7+System+Architect+%C2%B7+Senior+Full-Stack;Head+Architect+%40+Vysto+AI;Co-Founder+%26+Head+Architect+%40+Sports+Fusion;Head+Architect+%40+Skedadel+Tech;Senior+Full-Stack+%40+Digital+Dynasty;Architecture+through+deployment." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=22&pause=1200&color=FF6A00&center=true&vCenter=true&width=780&lines=Co-Founder+%C2%B7+System+Architect+%C2%B7+Senior+Full-Stack;Senior+Software+Engineer+%40+Vysto+AI;Co-Founder+%26+Head+Architect+%40+Sports+Fusion;Head+Architect+%40+Skedadel+Tech;Senior+Full-Stack+%40+Digital+Dynasty;Architecture+through+deployment." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -34,7 +34,7 @@
 | **Digital Dynasty** | Senior Full-Stack Developer | Nov 2024 to present |
 | **[Sports Fusion Technology](https://sportsfusionsa.com/)** | Co-Founder & Head Architect | Jun 2025 to present |
 | **[Skedadel Tech](https://skedadel.co/)** | Head Architect | Oct 2025 to present |
-| **[Vysto AI](https://vysto.ai/c/)** | Head Architect | Dec 2025 to present |
+| **[Vysto AI](https://vysto.ai/c/)** | Senior Software Engineer | Dec 2025 to present |
 
 </div>
 
@@ -56,7 +56,7 @@
 ![MVP](https://img.shields.io/badge/-MVP-555555?style=flat-square) &nbsp;
 <kbd>AI / Web</kbd> &nbsp; <kbd>CMS</kbd>
 
-Head Architect. Conversational web platform where pages build as the conversation progresses. CMS foundations plus native image, audio, and text generation.
+Senior Software Engineer. Conversational web platform where pages build as the conversation progresses. CMS foundations plus native image, audio, and text generation.
 
 [Case study](https://tristanwentzel.com/work/vysto-ai) · [Live](https://vysto.ai/c/)
 
