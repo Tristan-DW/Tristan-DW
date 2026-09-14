@@ -14,8 +14,6 @@
 <br/><br/>
 
 [![Website](https://img.shields.io/badge/Website-tristanwentzel.com-FF6A00?style=for-the-badge&labelColor=070707)](https://tristanwentzel.com)
-[![Indie](https://img.shields.io/badge/Indie-Games-1a1a1a?style=for-the-badge&labelColor=070707)](https://indie.tristanwentzel.com)
-[![Author](https://img.shields.io/badge/Author-The+Centaur-333333?style=for-the-badge&labelColor=070707)](https://author.tristanwentzel.com)
 [![GitHub followers](https://img.shields.io/github/followers/Tristan-DW?style=for-the-badge&color=FF6A00&labelColor=070707&label=FOLLOWERS)](https://github.com/Tristan-DW?tab=followers)
 
 <br/>
@@ -150,8 +148,6 @@ Clinical context layer — ICD-10, CPT, billing, and patient records in one plac
 <div align="center">
 
 [![Work](https://img.shields.io/badge/Work-tristanwentzel.com-FF6A00?style=for-the-badge&labelColor=070707)](https://tristanwentzel.com)
-[![Games](https://img.shields.io/badge/Games-indie.tristanwentzel.com-1a1a1a?style=for-the-badge&labelColor=070707)](https://indie.tristanwentzel.com)
-[![itch](https://img.shields.io/badge/itch.io-TDW-333333?style=for-the-badge&labelColor=070707)](https://tdw1.itch.io/)
 [![Contact](https://img.shields.io/badge/Contact-Get+in+touch-FF6A00?style=for-the-badge&labelColor=070707)](https://tristanwentzel.com/#contact)
 
 </div>
