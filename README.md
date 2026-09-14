@@ -173,9 +173,7 @@ Clinical context layer: ICD-10, CPT, billing, and patient records in one place c
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tristan-DW&layout=compact&hide_border=true&langs_count=8&hide=html,css,makefile,cmake,dockerfile,batchfile,powershell&bg_color=070707&text_color=f3f3f3&title_color=FF6A00&icon_color=FF6A00" height="165" alt="Top languages" />
-&nbsp;&nbsp;
-<img src="https://github-stats-extended.vercel.app/api?username=Tristan-DW&show_icons=true&hide_border=true&bg_color=070707&title_color=FF6A00&icon_color=FF6A00&text_color=f3f3f3&ring_color=FF6A00" height="165" alt="GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tristan-DW&layout=compact&hide_border=true&langs_count=8&hide=html,css,makefile,cmake,dockerfile,batchfile,powershell&bg_color=070707&text_color=f3f3f3&title_color=FF6A00&icon_color=FF6A00" alt="Most used languages" />
 
 <br/><br/>
 
