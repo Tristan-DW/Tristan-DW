@@ -55,10 +55,10 @@
 <td width="50%" valign="top">
 
 ### Vysto AI
-![MVP](https://img.shields.io/badge/-MVP-555555?style=flat-square) &nbsp;
+![Alpha](https://img.shields.io/badge/-Alpha-FF6A00?style=flat-square) &nbsp;
 <kbd>AI / Web</kbd> &nbsp; <kbd>CMS</kbd>
 
-Senior Software Engineer. Conversational web platform where pages build as the conversation progresses. CMS foundations plus native image, audio, and text generation.
+Senior Software Engineer. Conversational web platform taken from MVP to Alpha, with roughly 27 production site migrations.
 
 [Case study](https://tristanwentzel.com/work/vysto-ai) · [Live](https://vysto.ai/c/)
 
@@ -69,7 +69,7 @@ Senior Software Engineer. Conversational web platform where pages build as the c
 ![Live](https://img.shields.io/badge/-Live-FF6A00?style=flat-square) &nbsp;
 <kbd>Sports Tech</kbd> &nbsp; <kbd>Full Platform</kbd>
 
-Founder & Head Architect. Registration used by SAFA, a social mobile app, and a talent management and acquisition portal for South African football.
+Founder & Head Architect. Used within SAFA structures across 9 provinces: registrations, transfers, tournaments, and federation-controlled operations.
 
 [Case study](https://tristanwentzel.com/work/sports-fusion) · [Company](https://sportsfusionsa.com/) · [Apps](https://mysportsapplication.com/)
 
@@ -82,7 +82,7 @@ Founder & Head Architect. Registration used by SAFA, a social mobile app, and a 
 ![Live](https://img.shields.io/badge/-Live-FF6A00?style=flat-square) &nbsp;
 <kbd>Fleet Ops</kbd> &nbsp; <kbd>Full Platform</kbd>
 
-Head Architect. Last-mile delivery for Pedros, Wackys, KFC, Nando's, Foodlovers, and Medirite: live GPS, dispatch, on-demand and scheduled modes.
+Head Architect. National franchise last-mile delivery for Nando's, Pedros, Food Lover's, KFC, McDonald's, and Medirite. 80,000+ orders a month.
 
 [Case study](https://tristanwentzel.com/work/skedadel) · [Live](https://skedadel.co/)
 
