@@ -18,8 +18,9 @@
 
 <br/>
 
-*I design and build production software, from architecture through deployment,*  
-*for companies that need systems they can rely on.*
+*I design and build production software from architecture through deployment, working across AI platforms, logistics, sports technology, integrations, cloud infrastructure, and large-scale web applications.*
+
+*My work spans hands-on engineering, system design, technical leadership, and taking products from early concepts through to reliable production systems.*
 
 </div>
 
