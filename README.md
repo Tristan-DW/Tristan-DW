@@ -31,7 +31,7 @@
 
 | Company | Title | When |
 |:--|:--|:--|
-| **The Worm Herder Pty Ltd** | Part-Time Web Developer | 2020 to 2023 |
+| **[The Worm Herder Pty Ltd](https://twhwormery.co.za/)** | Part-Time Web Developer | 2020 to 2023 |
 | **Digital Dynasty** | Senior Full-Stack Developer | Nov 2024 to present |
 | **[Sports Fusion Technology](https://sportsfusionsa.com/)** | Founder & Head Architect | Jun 2025 to present |
 | **[Skedadel Tech](https://skedadel.co/)** | Head Architect | Oct 2025 to present |
