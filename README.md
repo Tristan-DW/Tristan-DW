@@ -112,10 +112,6 @@ Clinical context layer: ICD-10, CPT, billing, and patient records in one place c
 
 <div align="center">
 
-<sub>Same icons as <a href="https://tristanwentzel.com/#stack">tristanwentzel.com</a>.</sub>
-
-<br/><br/>
-
 **Languages**
 
 <img src="https://tristanwentzel.com/public/images/stack/typescript.svg" alt="TypeScript" height="36" />
