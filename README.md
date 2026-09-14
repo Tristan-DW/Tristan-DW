@@ -111,17 +111,62 @@ Clinical context layer: ICD-10, CPT, billing, and patient records in one place c
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,flutter,python,php,laravel,nodejs&perline=9&theme=dark" alt="Primary stack" />
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,docker,aws,linux,bash,git&perline=9&theme=dark" alt="Data and delivery" />
+<sub>Same icons as <a href="https://tristanwentzel.com/#stack">tristanwentzel.com</a>.</sub>
 
 <br/><br/>
 
-| Languages | Frontend | Backend | Data | Delivery |
-|:---:|:---:|:---:|:---:|:---:|
-| TypeScript, JS | React, Next.js | Node, Laravel | PostgreSQL, MySQL | AWS, Docker |
-| Python, PHP, Dart | Flutter | Express, REST | Redis, MongoDB | Linux, Nginx |
-| C#, C++, SQL, Bash | Tailwind | JWT / OAuth | - | CI/CD |
+**Languages**
+
+<img src="https://tristanwentzel.com/public/images/stack/typescript.svg" alt="TypeScript" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/javascript.svg" alt="JavaScript" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/python.svg" alt="Python" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/php.svg" alt="PHP" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/dart.svg" alt="Dart" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/csharp.svg" alt="C#" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/cplusplus.svg" alt="C++" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/gnubash.svg" alt="Bash" height="36" />
+
+**Frontend & Mobile**
+
+<img src="https://tristanwentzel.com/public/images/stack/react.svg" alt="React" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/nextdotjs.svg" alt="Next.js" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/flutter.svg" alt="Flutter" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/tailwindcss.svg" alt="Tailwind CSS" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/html5.svg" alt="HTML5" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/css.svg" alt="CSS3" height="36" />
+
+**Backend & APIs**
+
+<img src="https://tristanwentzel.com/public/images/stack/nodedotjs.svg" alt="Node.js" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/laravel.svg" alt="Laravel" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/express.svg" alt="Express" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/socketdotio.svg" alt="WebSockets" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/jsonwebtokens.svg" alt="JWT" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/openid.svg" alt="OAuth2" height="36" />
+
+**Databases**
+
+<img src="https://tristanwentzel.com/public/images/stack/postgresql.svg" alt="PostgreSQL" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/mysql.svg" alt="MySQL" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/redis.svg" alt="Redis" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/mongodb.svg" alt="MongoDB" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/microsoftsqlserver.svg" alt="MS SQL" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/sqlite.svg" alt="SQLite" height="36" />
+
+**Cloud & DevOps**
+
+<img src="https://tristanwentzel.com/public/images/stack/amazonaws.svg" alt="AWS" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/docker.svg" alt="Docker" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/githubactions.svg" alt="GitHub Actions" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/nginx.svg" alt="Nginx" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/linux.svg" alt="Linux" height="36" />
+
+**AI & Integrations**
+
+<img src="https://tristanwentzel.com/public/images/stack/openai.svg" alt="LLM Integration" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/salesforce.svg" alt="CRM Systems" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/stripe.svg" alt="Payment APIs" height="36" />
+<img src="https://tristanwentzel.com/public/images/stack/googleads.svg" alt="Google Ads API" height="36" />
 
 </div>
 
@@ -131,13 +176,13 @@ Clinical context layer: ICD-10, CPT, billing, and patient records in one place c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-DW&layout=compact&theme=dark&hide_border=true&langs_count=8&hide=html,css,makefile,cmake,dockerfile,batchfile,powershell&bg_color=070707&text_color=f3f3f3&title_color=FF6A00&icon_color=FF6A00" height="165" alt="Top languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tristan-DW&layout=compact&hide_border=true&langs_count=8&hide=html,css,makefile,cmake,dockerfile,batchfile,powershell&bg_color=070707&text_color=f3f3f3&title_color=FF6A00&icon_color=FF6A00" height="165" alt="Top languages" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=Tristan-DW&show_icons=true&theme=dark&hide_border=true&bg_color=070707&title_color=FF6A00&icon_color=FF6A00&text_color=f3f3f3&ring_color=FF6A00" height="165" alt="GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=Tristan-DW&show_icons=true&hide_border=true&bg_color=070707&title_color=FF6A00&icon_color=FF6A00&text_color=f3f3f3&ring_color=FF6A00" height="165" alt="GitHub stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tristan-DW&theme=react-dark&bg_color=070707&color=FF6A00&line=FF6A00&point=ffffff&area=true&area_color=FF6A00&hide_border=true" width="100%" alt="Contribution graph" />
+<img src="https://ghchart.rshah.org/FF6A00/Tristan-DW" width="100%" alt="Contribution graph" />
 
 </div>
 
